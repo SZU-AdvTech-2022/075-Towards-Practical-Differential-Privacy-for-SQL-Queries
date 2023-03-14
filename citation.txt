@@ -1,0 +1,10 @@
+@article{REPO-076,
+    author = "Johnson, Noah and Near, Joseph P and Song, Dawn",
+    journal = "Proceedings of the VLDB Endowment",
+    number = "5",
+    pages = "526--539",
+    publisher = "VLDB Endowment",
+    title = "{Towards Practical Differential Privacy for SQL Queries}",
+    volume = "11",
+    year = "2018"
+}
